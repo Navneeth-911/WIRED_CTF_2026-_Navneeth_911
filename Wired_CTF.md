@@ -2,7 +2,6 @@
 
 > Writeups based on the steps I remember using. Exact commands or intermediate values are not included since I do not remember them.
 
-
 ## 1. DOUBLE_VISION
 
 ### Challenge Description
